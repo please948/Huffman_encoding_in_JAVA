@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HuffPro:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HuffPro_jar</output-path>
+    <root id="archive" name="HuffPro.jar">
+      <element id="module-output" name="HuffPro" />
+    </root>
+  </artifact>
+</component>
